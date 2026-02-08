@@ -1,0 +1,22 @@
+# Security (NEVER upload these)
+.env
+api_key.txt
+
+# System / Cache files
+__pycache__/
+*.py[cod]
+*$py.class
+.streamlit/
+
+# Local Tools (Don't upload these)
+ngrok.exe
+
+# Database & Storage
+# We ignore the local cache so Railway rebuilds it fresh from the Cloud Links
+chroma_db_cache/
+chat_history.db
+chroma.sqlite3
+
+# Virtual Environment
+venv/
+env/
