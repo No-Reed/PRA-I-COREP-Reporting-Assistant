@@ -25,7 +25,7 @@ We offer two deployment modes to balance **Accessibility** vs. **Data Privacy**:
 * **Host:** Streamlit Community Cloud
 * **AI Backend:** Google Gemini 1.5 Flash
 * **Use Case:** Instant access, high availability, no setup required.
-* **Live Link:** [](https://pra-i-corep-reporting-assistant-hueujpnvs7ydtgzuhwp56h.streamlit.app/)
+* **Live Link:** https://pra-i-corep-reporting-assistant-hueujpnvs7ydtgzuhwp56h.streamlit.app
 
 ### Option B: Secure Local Tunnel (Privacy Mode via ngrok)
 * **Host:** On-Premise / Local Laptop
