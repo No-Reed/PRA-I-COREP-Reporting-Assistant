@@ -9,3 +9,4 @@ python-dotenv
 sentence-transformers
 torch
 requests
+pysqlite3-binary
